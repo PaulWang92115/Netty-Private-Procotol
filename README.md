@@ -17,4 +17,4 @@ Netty-Private-Procotol 是一个基于 Netty 的私有化通信协议。
 4. 通过心跳监测保证可用性。
 
 ### 结构图
-
+![avatar](https://github.com/PaulWang92115/NettyMVC/blob/master/nettymvc.png)
